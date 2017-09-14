@@ -1,0 +1,22 @@
+<?xml version ="1.0"?0>
+<mypersonalwebsite>
+	<DariaShvaleva>
+		<image>myphoto</image>
+		<geeting in="Hello! Я Даша! Я web-разработчик! Хочу рассказать немного о себе!"/>
+	</DariaShvaleva>
+	<mycompetencies>
+		<competency in="HTML" value="стандартизированный язык разметки документов во Всемирной паутине."/>
+		<competency in="JavaScript" value="мультипарадигменный язык программирования."/>
+		<competency in="Python" value="высокоуровневый язык программирования общего назначения."/>
+		<competency in="C++" value="компилируемый, статически типизированный язык программирования."/>
+	</mycompetencies>
+	<myworks>
+		<work in="RepEAT"/>
+		<work in="HomeLand"/>
+	</myworks>
+	<contacts>
+		<myphone in="+7(912)2834619"/>
+		<myemail in="dashka.shvaleva@mail.ru"/>
+		<mywebsite in="http://daria_shvaleva"/>
+	</contacts>
+</mypersonalwebsite>
